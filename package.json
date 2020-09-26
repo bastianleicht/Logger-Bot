@@ -1,0 +1,16 @@
+{
+  "name": "logger-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "routerabfrage",
+  "license": "https://github.com/routerabfrage/License",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "quick.db": "^7.0.0-b22"
+  }
+}
